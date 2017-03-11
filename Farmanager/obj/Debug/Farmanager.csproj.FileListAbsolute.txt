@@ -1,0 +1,6 @@
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\bin\Debug\Farmanager.exe.config
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\obj\Debug\Farmanager.csprojResolveAssemblyReference.cache
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\bin\Debug\Farmanager.exe
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\bin\Debug\Farmanager.pdb
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\obj\Debug\Farmanager.exe
+c:\users\dok\documents\visual studio 2015\Projects\Farmanager\Farmanager\obj\Debug\Farmanager.pdb
